@@ -1,0 +1,13 @@
+{
+    "users":[
+        {
+            "id":1,
+            "username":"Yesid Vanegas",
+            "age":"21",
+            "email":"yesidvanegas@gmail.com",
+            "addres": "calle 4 #5-4",
+            "password":"123456",
+            "phone": "1234567890"
+        }
+    ]
+}
